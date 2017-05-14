@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/liuz-spring-demo.iml" filepath="$PROJECT_DIR$/liuz-spring-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-all/spring-all.iml" filepath="$PROJECT_DIR$/spring-all/spring-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-aop/spring-aop.iml" filepath="$PROJECT_DIR$/spring-aop/spring-aop.iml" />
     </modules>
   </component>
 </project>
